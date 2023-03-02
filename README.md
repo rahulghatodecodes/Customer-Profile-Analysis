@@ -46,11 +46,10 @@ Is there different age groups buying different models.?
 Relation between Age, Income and education and model bought ?
 
 ## Observations:
- **Observation:**There are 180 rows and 9 columns in the dataset
+There are 180 rows and 9 columns in the dataset
  Product,Gender and Martial status are string datatype .
 While Age, Education,Usage,Fitness,Income,Miles are integer datatype.
- **Observation:** There are no missing  or duplicate values in the dataset
-Observation:
+There are no missing  or duplicate values in the dataset.
 There are 3 different treadmills products.
 There are both Partnered and single customers
 Age of customers ranges from 18 to 50
@@ -94,12 +93,8 @@ Customers buying treadmill after age of 40 and before 20 are very less.
 Miles is skewed towards right.
 Customers expect to run on an average 80 miles per week.
 There are some outliers, where customers are expecting to run more than 200 miles per weak.
-   - Most of the customers have self-rated their fitness as 3( average).
-   - s
-   - s
-   - s
-   - s
-   - Most of the customers have 16 year of education (assuming them to be college graduates or bachelors).
+Most of the customers have self-rated their fitness as 3( average).
+Most of the customers have 16 year of education (assuming them to be college graduates or bachelors).
 There are few outliers.
 Most of customers expect they will be using the treadmill 3-4 days per week.
 There are few outliers where customer are expecting to use treadmill for 6 or 7 times a week
@@ -115,8 +110,8 @@ There is some corelation between Usage and Income
 Fitness and miles are corelated
 TM798 model is correlated to Education, Usage,Fitness, Income and Miles.
 Miles and usage are positively correlated
- - we get the same observation as from the correlation plot
- - there are many outliers for TM798 ,customers are more than age of 40 .
+we get the same observation as from the correlation plot
+there are many outliers for TM798 ,customers are more than age of 40 .
 Age of customers buying TM195 and TM498 is between 20-35, where as customers buying TM798 are primarily in 25-30
 Customers with higher income and more education have purchased TM798 model.
 Customers with lower income purchase TM195 and TM498 model may be because of cost of the Treadmill
@@ -152,8 +147,8 @@ Products TM195 and TM498 are bought by people with lower than 70K as income and 
 Product TM798 is mainly bought by people with higher than 70K income and age falls in range of 23-30.
 Majority of people who buys the TM798 expect that they will run more than consumers of the other two products, on average.
 
--Conclusion
- - Important Observations
+## Conclusion
+- Important Observations
 44.4% customers brought TM195. TM195 model is the most purchased model. TM498 was purchased more than TM798.
 57.8% male brought Treadmill. There are more Male customers than Female customers.
 59.4% of the customers who purchased treadmill are partnered.
